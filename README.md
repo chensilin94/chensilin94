@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @chensilin94
-- 👀 I’m interested in growth and product strategy
-- 🌱 I’m currently learning SQL, growth hacking, digital marketing for consumer brands
-- 💞️ I’m looking to collaborate on digital marketing for consumer brands / tech
+- 👀 I’m interested in AI, growth and product strategy
+- 🌱 I’m currently learning what productivity gains from AI means to humans & humanities, agent-to-human communications, and growth hacking
 - 📫 How to reach me chensilin94@gmail.com
 
 <!---
